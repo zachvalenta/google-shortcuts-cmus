@@ -1,3 +1,19 @@
+# EVERNOTE
+* shortcuts | cmd #
+* goto | cmd j
+* search note | ctrl f
+* search all | cmd ctrl f
+* superscript | cmd shift ctrl +
+* √ (radical sign) 
+
+# PREVIEW
+* ToC | CMD ALT 3
+* highlights | CMD ALT 4
+* switch btw sidebar, editor, and search | TAB
+
+# VIRTUAL BOX
+* if weird things start happening with the mouse, press right ctrl key
+
 # CMUS
 * play/pause | c
 * skip | b
@@ -9,6 +25,29 @@
 * search | /
 * next search instance | n
 * previous search instance | N
+* display time remaining in song | settings - 
+* display hidden files | i
+
+# IRSSI
+* login | /nick <urNick>
+* connect | /connect <irc.freenode.net>
+* join channel | /join <#python>
+* ignore noise | /ignore -channels #<channel> * JOINS PARTS QUITS NICKS
+* grep | /lastlog <query> <occurences>
+* save log | /lastlog -file <pathAndFileToBeCreated>
+* quit | /quit
+
+# TMUX
+* prefix cmd | ctrl b
+* list session | tmux ls
+* detach | prefix d
+* attach | tmux a #
+* split vertical | prefix %
+* split horizonal | prefix "
+* next window | prefix n
+* switch pane | prefix arrow
+* normal navigation cmds (page up, et al.) | prefix [ then q to exit
+* close window | exit
 
 # YOUTUBE
 * mute | m
@@ -54,8 +93,3 @@
 * search | /
 * create event | c
 * event details | e
-
-# PREVIEW
-* ToC | CMD ALT 3
-* highlights | CMD ALT 4
-* switch btw sidebar editor and search | TAB
